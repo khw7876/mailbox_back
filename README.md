@@ -1,38 +1,15 @@
 # 몽글(Mongle)
 
+## 📆 제작 기간 & 참여 인원
+- 22/07/07 ~ 22/08/16
+- 고현우, 주정한, 김하진, 최희원 (4인)<br>
+
+## 👍 배포사이트
+- ### www.mongle.site
+<br>
 
 ## 📝 기획의도 
 ![20220822132858](https://user-images.githubusercontent.com/102797869/185839746-4c879cb4-b66d-4272-aca5-30035f1ba660.png)
-<br>
-<br>
-## 👍 배포사이트
-### www.mongle.site
-<br>
-<br>
-
-## 🤔 팀원들이 생각한 웹페이지의 느낌
-
-<p align="center">
-<img style="width:65%;" src="https://user-images.githubusercontent.com/55477835/177790010-706e97b8-a65c-4009-aafc-d40aef1a8292.png">
-</p>
-
-따뜻함과 편안함, 자연, 종이질감의 텍스쳐 괴로운 상황을 편안하게 만들어준다는 스토리텔링까지 담겨서 기획의도를 더 명확하게 가져가고 페이지의 테마를 정하는데 도움을 받을 수 있었습니다.
-<br>
-<br>
-## 🌈 테마색상
-
-![Group 31](https://user-images.githubusercontent.com/55477835/177790475-5b13c5f2-38d9-4801-8e50-ca58aa3c2594.png)
-<br>
-<br>
-
-## 🐥 메인 캐릭터 - 몽글이
-<p align="center">
-<img style="width:20%;" src="https://user-images.githubusercontent.com/55477835/185823450-c6c82584-43c9-419e-bdc5-47b924ee6cde.png">
-<img style="width:20%;" src="https://user-images.githubusercontent.com/55477835/185823469-abe701da-0150-4a2d-ba10-d320733f0473.png">
-<img style="width:20%;" src="https://user-images.githubusercontent.com/55477835/185823477-7d6de8e3-0c28-4203-8560-1d0c941ef93f.png">
-<img style="width:20%;" src="https://user-images.githubusercontent.com/55477835/185823478-5e186a08-db50-4da4-b644-b219bea6b653.png">
-<img style="width:20%;" src="https://user-images.githubusercontent.com/55477835/185823480-7ecf1449-8d22-4f99-b489-231a81ec1594.png">
-</p>
 <br>
 <br>
 
@@ -95,3 +72,6 @@
 8. 쉬는 시간 챙기면서 일하기.
 9. 밤샘 금지
 10. 아프면 바로 말해서 휴식 취하기!
+
+## 🏁 회고 / 느낀점
+> 프로젝트 회고 글 : https://khw7876.tistory.com/163
