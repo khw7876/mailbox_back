@@ -10,32 +10,6 @@
 <br>
 <br>
 
-## 🤔 팀원들이 생각한 웹페이지의 느낌
-
-<p align="center">
-<img style="width:65%;" src="https://user-images.githubusercontent.com/55477835/177790010-706e97b8-a65c-4009-aafc-d40aef1a8292.png">
-</p>
-
-따뜻함과 편안함, 자연, 종이질감의 텍스쳐 괴로운 상황을 편안하게 만들어준다는 스토리텔링까지 담겨서 기획의도를 더 명확하게 가져가고 페이지의 테마를 정하는데 도움을 받을 수 있었습니다.
-<br>
-<br>
-## 🌈 테마색상
-
-![Group 31](https://user-images.githubusercontent.com/55477835/177790475-5b13c5f2-38d9-4801-8e50-ca58aa3c2594.png)
-<br>
-<br>
-
-## 🐥 메인 캐릭터 - 몽글이
-<p align="center">
-<img style="width:20%;" src="https://user-images.githubusercontent.com/55477835/185823450-c6c82584-43c9-419e-bdc5-47b924ee6cde.png">
-<img style="width:20%;" src="https://user-images.githubusercontent.com/55477835/185823469-abe701da-0150-4a2d-ba10-d320733f0473.png">
-<img style="width:20%;" src="https://user-images.githubusercontent.com/55477835/185823477-7d6de8e3-0c28-4203-8560-1d0c941ef93f.png">
-<img style="width:20%;" src="https://user-images.githubusercontent.com/55477835/185823478-5e186a08-db50-4da4-b644-b219bea6b653.png">
-<img style="width:20%;" src="https://user-images.githubusercontent.com/55477835/185823480-7ecf1449-8d22-4f99-b489-231a81ec1594.png">
-</p>
-<br>
-<br>
-
 ## 🔨 페이지 별 기능
 
 ![20220818152045](https://user-images.githubusercontent.com/102797869/185308909-658e2d00-4722-4e0f-80ab-bb812a15c9b1.png)
