@@ -91,24 +91,29 @@
 9. 밤샘 금지
 10. 아프면 바로 말해서 휴식 취하기!
 
+<hr>
+
+## 나의 작업 기여도
+
 ## `❓ 사용자 피드백을 받기 전`
 
 <details>
 <summary>1️⃣  익명게시판, 고민게시판</summary>
 <div markdown="1">
   - &nbsp;&nbsp;&nbsp;1. Django의 RestFramework를 이용하여 게시글에 대한 CRUD 구현<br>
-  - &nbsp;&nbsp;&nbsp;2. 발생 가능한 Error를 TDD 방식을 활용하여 에러 핸들링 구현 (100여개)<br>
-  - &nbsp;&nbsp;&nbsp;3. Custom Pagination을 통한 로직 구현<br>
-  - &nbsp;&nbsp;&nbsp;4. 쿼리수 줄이기, 필요한 데이터만 Return 하는 등 로직에 대한 이해<br>
-  - &nbsp;&nbsp;&nbsp;5. 백엔드적 관리에 집중<br>
+  - &nbsp;&nbsp;&nbsp;2. Custom Pagination을 통한 로직 구현<br>
+  - &nbsp;&nbsp;&nbsp;3. Eager Loading을 이용한 쿼리수 줄이기, 불필한 데이터를 줄이고 필요한 데이터만 Return 하는 등 로직에 대한 이해<br>
+  - &nbsp;&nbsp;&nbsp;4. 백엔드적 관리에 집중하여 MTV패턴에서 Service Layer 분리<br>
+  - &nbsp;&nbsp;&nbsp;5. 발생 가능한 Error를 TDD 방식을 활용하여 에러 핸들링 구현 (100여개)<br>
 </div>
 </details>
 
 <details>
 <summary>2️⃣  TDD 방식을 활용한 이유</summary>
 <div markdown="1">
-  - &nbsp;&nbsp;&nbsp;발생 가능한 Error를 직접 핸들링 하기 위해서 사용<br>
+  - &nbsp;&nbsp;&nbsp;Error가 발생할 수 있는 상황을 가정하여 Error에 대응을 할 수 있도록 하기 위하여 사용<br>
   - &nbsp;&nbsp;&nbsp;ex) 권한이 주어지지 않은 user가 서버에 데이터를 요청하였을 경우에 관한 핸들링<br>
+  - &nbsp;&nbsp;&nbsp;나 스스로 생각을 한 로직과 실제 로직에는 차이가 있을 수 있기에 TDD 방식으로 검증
 </div>
 </details>
 
@@ -116,6 +121,7 @@
 <summary>3️⃣  TDD 방식을 통해 얻은 이점</summary>
 <div markdown="1">
   - &nbsp;&nbsp;&nbsp;새로운 Error에 대한 쉬운 핸들링
+  - &nbsp;&nbsp;&nbsp;CaptureQueriesContext을 통하여 Query수를 직접 찍어보고 Eager Loading을 통하여 쿼리수를 감소<br>
   - &nbsp;&nbsp;&nbsp;발생가능한 Error의 핸들링을 통한 서비스의 안정감 확보
 </div>
 </details>
