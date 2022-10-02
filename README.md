@@ -120,7 +120,7 @@
 <details>
 <summary>3️⃣  TDD 방식을 통해 얻은 이점</summary>
 <div markdown="1">
-  - &nbsp;&nbsp;&nbsp;새로운 Error에 대한 쉬운 핸들링
+  - &nbsp;&nbsp;&nbsp;새로운 Error에 대한 쉬운 핸들링<br>
   - &nbsp;&nbsp;&nbsp;CaptureQueriesContext을 통하여 Query수를 직접 찍어보고 Eager Loading을 통하여 쿼리수를 감소<br>
   - &nbsp;&nbsp;&nbsp;발생가능한 Error의 핸들링을 통한 서비스의 안정감 확보
 </div>
