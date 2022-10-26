@@ -123,11 +123,11 @@
 ---
 
 ### 🏋🏼‍♀️ 원활한 프로젝트 진행을 위한 팀과의 노력
-😄 [6.16 팀원 타임어택 진행](https://www.notion.so/6-21-CRUD_further-20987bcdb6cb4a29ae7d79ed16f96030)
+😄 [6.16 팀원 타임어택 진행](https://airy-backpack-f21.notion.site/6-16-b91af7faa6bb4fe69fd1ef71822059d2)
 
-💥 [6/21일 CRUD_further](https://www.notion.so/6-21-CRUD_further-20987bcdb6cb4a29ae7d79ed16f96030)
+💥 [6/21일 CRUD_further](https://airy-backpack-f21.notion.site/6-21-CRUD_further-a8942b62c9a64608b9206eee4c07dc7a)
 
-🏹 [6월 20일 타임어택](https://www.notion.so/6-20-19423f82fe4b4acfbf2d1fedf25ddb3f)
+🏹 [6월 20일 타임어택](https://airy-backpack-f21.notion.site/6-20-22bd6d8be854436ea0f3c6fffef399b8)
 <br>
 <br>
 
