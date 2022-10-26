@@ -40,7 +40,7 @@
 </details>
 
 <details>
-<summary>2️⃣  TDD 방식을 활용한 이유</summary>
+<summary>2️⃣  테스트코드 작성을 활용한 이유</summary>
 <div markdown="1">
   - &nbsp;&nbsp;&nbsp;Error가 발생할 수 있는 상황을 가정하여 Error에 대응을 할 수 있도록 하기 위하여 사용<br>
   - &nbsp;&nbsp;&nbsp;ex) 권한이 주어지지 않은 user가 서버에 데이터를 요청하였을 경우에 관한 핸들링<br>
@@ -49,7 +49,7 @@
 </details>
 
 <details>
-<summary>3️⃣  TDD 방식을 통해 얻은 이점</summary>
+<summary>3️⃣  테스트코드 작성을 통해 얻은 이점</summary>
 <div markdown="1">
   - &nbsp;&nbsp;&nbsp;새로운 Error에 대한 쉬운 핸들링<br>
   - &nbsp;&nbsp;&nbsp;CaptureQueriesContext을 통하여 Query수를 직접 찍어보고 Eager Loading을 통하여 쿼리수를 감소<br>
